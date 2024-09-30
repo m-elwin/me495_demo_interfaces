@@ -1,0 +1,6 @@
+# The request
+int64 x
+bool increment
+---
+# The response
+uint8 ret
